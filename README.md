@@ -19,9 +19,9 @@
 <br />
 <br />
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
+A **DESARROLLADOR DE SOFTWARE** ***Sigamos aprendiendo*** 🚀.
  
-https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47emy7zu4rjab32mnpvi174avi8hay7lj5b28zjxpc&rid=giphy.gif&ct=g
+
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Acerca de mi!**
