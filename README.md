@@ -23,7 +23,7 @@
 
 **Acerca de mi!**
 
-- 👨🏽‍💻 Actualmente soy estudiante de desarrollo de software en la academia Holberton School
+- 👨🏽‍💻 desarrollador de software con enfoque en el area de front-end.
 - 🌱 Quisiera incorporarme a una empresa donde pueda seguir aprendiendo y desarrollar aun mas mis habilidades.
 - 🤔 Me interesa mayormente el backend aunque tambien me interesa el front-end. Un poco de esto un poco de aquello...
 - 💬 Preguntame lo que quieras, me gustan las preguntas!
