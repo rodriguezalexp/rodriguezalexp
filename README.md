@@ -1,21 +1,5 @@
 <h3 title="hihi"> Hola 👋, Mi nombre es Alexander Rodriguez!</h3>
 
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-  <img align="left" alt="Alexander's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/rodriguezalexp/">
-  <img align="left" alt="Alexander's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/rodriguezalexp">
-  <img align="left" alt="Alexander's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
-
-
-
-
-<br />
-<br />
-
 **DESARROLLADOR DE SOFTWARE**  🚀.
  
 
