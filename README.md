@@ -6,8 +6,6 @@
 **Acerca de mi!**
 
 - 👨🏽‍💻 desarrollador de software con enfoque en el area de Backend.
-- 🌱 Quisiera incorporarme a una empresa donde pueda seguir aprendiendo y desarrollar aun mas mis habilidades.
-- 🤔 Me interesa mayormente el backend aunque tambien me interesa el front-end.
 - 📫 Email me at [rodriguezalexp@gmail.com](mailto:rodriguezalexp@gmail.com).
 
 
