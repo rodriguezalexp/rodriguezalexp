@@ -5,9 +5,10 @@
 
 **Acerca de mi!**
 
-- 👨🏽‍💻 desarrollador de software con enfoque en el area de Backend.
-- 📫 Email me at [rodriguezalexp@gmail.com](mailto:rodriguezalexp@gmail.com).
+- 👨🏽‍💻 Desarrollador full stack con experiencia en la creación de aplicaciones web completas y escalables.
+- La atención al detalle, el trabajo en equipo y las ganas de nuevos aprendizajes son características que me califican como profesional.
 
+- 📫 Email me at [rodriguezalexp@gmail.com](mailto:rodriguezalexp@gmail.com).
 
 
 **Lenguajes y herramientas:**  
