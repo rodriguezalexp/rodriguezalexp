@@ -1,6 +1,6 @@
 <h3 title="hihi"> Hola 👋, Mi nombre es Alexander Rodriguez!</h3>
 
-**DESARROLLADOR DE SOFTWARE**  🚀.
+**DESARROLLADOR FULL STACK**  🚀.
  
 
 **Acerca de mi!**
