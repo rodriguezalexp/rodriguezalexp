@@ -1,11 +1,11 @@
 <h3 title="hihi"> Hola 👋, Mi nombre es Alexander Rodriguez!</h3>
 
-**DESARROLLADOR FULL STACK**  🚀.
+**DESARROLLADOR Python - Django**  🚀.
  
 
 **Acerca de mi!**
 
-- 👨🏽‍💻 Desarrollador full stack con experiencia en la creación de aplicaciones web completas y escalables.
+- 👨🏽‍💻 Desarrollador Python - Django con experiencia en la creación de aplicaciones web completas y escalables.
 - La atención al detalle, el trabajo en equipo y las ganas de nuevos aprendizajes son características que me califican como profesional.
 
 - 📫 Email me at [rodriguezalexp@gmail.com](mailto:rodriguezalexp@gmail.com).
